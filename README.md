@@ -1,4 +1,4 @@
-# cheryville-webdev-assignment01 (Color Div Game)
+# Color Div Game
 
 Color Div is a game I created while taking a web development course. It is a guessing game in which users
 have to guess what color the rgb is among the circles.
