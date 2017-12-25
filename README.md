@@ -28,6 +28,7 @@ The following **technologies** were used to complete this website:
 Below is a link to a walkthrough of the website:
 
 <a href= 'https://i.imgur.com/6Zt77TN.gif' title='Video Walkthrough' alt='Video Walkthrough'> Online Market Walkthrough</a>
+<img src= 'https://i.imgur.com/6Zt77TN.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
