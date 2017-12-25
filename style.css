@@ -1,0 +1,47 @@
+body{
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#header{
+    width: 100%;
+    color: black;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.circle{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+    border: 1px solid #000;
+    margin: 10px;
+}
+
+#footer{
+    font-size: 50px;
+    border-top: 1px solid #000;
+    position:fixed;
+    margin-top: 10%;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: bisque;
+    color: black;
+    text-align: center;
+}
+
+#message{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: cursive;
+    color: red;
+    font-weight: 900;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 5px;
+}
+
